@@ -30,6 +30,7 @@ The analysis includes:
 | Dataset | Records | Description | File |
 |---------|---------|-------------|------|
 | Full Delivery Transactions | 200,000+ | Order and delivery timestamps | `full_delivery_table.csv` |
+
 Note: Sorry, I can’t upload the Excel file because it exceeds GitHub’s 25MB file size limit.
 
 **Source**: UrbanZen internal operational databases

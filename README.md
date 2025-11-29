@@ -49,7 +49,7 @@ Historical data reveals persistent delay patterns, suggesting systemic issues ra
 
 ---
 
-## 💡 Recommended Actions  
+## Recommended Actions  
 - Implement seller performance standards and monitoring  
 - Develop targeted improvement plans for high-delay sellers  
 - Enhance delivery timeline communication for delayed orders  

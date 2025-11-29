@@ -24,12 +24,13 @@ The analysis includes:
    - Delay rate distribution
    - Geographic concentration analysis
 
-*Final dashboard images and Tableau workbook available in /dashboard/*
+*Final dashboard images and Tableau workbook available in /03_dashboard/*
 
 ## Data Sources  
 | Dataset | Records | Description | File |
 |---------|---------|-------------|------|
 | Full Delivery Transactions | 200,000+ | Order and delivery timestamps | `full_delivery_table.csv` |
+Note: Sorry, I can’t upload the Excel file because it exceeds GitHub’s 25MB file size limit.
 
 **Source**: UrbanZen internal operational databases
 

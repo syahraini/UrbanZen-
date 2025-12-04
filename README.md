@@ -129,7 +129,6 @@ Addressing the top 10% of underperforming sellers could reduce overall delays by
 **SQL** – Data extraction and transformation  
 **Excel** – Initial data validation  
 **Notion** – Project documentation  
-**Canva** - Presentation
 
 ## **About the Analyst**
 
